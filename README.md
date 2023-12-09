@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 
 
-![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&section=header&height=200&text=Lee%20Taewon&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&section=header&height=200&text=Lee%15Taewon&animation=fadeIn)
 
 <p align="center">
 👋 Hi there! I'm AI developer.
