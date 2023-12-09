@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 <p align="center">
 👋 Hi there! I'm AI developer.
 </br>
-I am interested in and studying interactive web pages.✨
+I am interested in and studying Generative AI and Natural Langage Processing.✨
 </br>
 </p>
 </br>
