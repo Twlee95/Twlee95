@@ -2,7 +2,7 @@
 
 
 
-https://img.shields.io/badge/Github-444444?style=for-the-badge&logo=GitHub&logoColor=#181717
+https://img.shields.io/badge/Github-444444?style=for-the-badge&logo=GitHub&logoColor=181717
 
 
 
