@@ -35,15 +35,11 @@ I am interested in studying Generative AI and Natural Langage Processing.✨
 
 
 
-
-
-
-
 <h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
 
 <p align='center'> <b>Languages </b></p>
 </br>
-<p align="center">
+<p align="center" style='line-height:-20px'>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> &nbsp
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/> &nbsp
 <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
