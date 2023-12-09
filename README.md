@@ -46,7 +46,8 @@ I am interested in studying Generative AI and Natural Langage Processing.✨
 </br>
 <p align="center">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/></a> &nbsp
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/> &nbsp
+<img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
 </p>
   
 <p align='center'> Frameworks </p>
@@ -68,6 +69,7 @@ I am interested in studying Generative AI and Natural Langage Processing.✨
 <p align="center">
 <img src="https://img.shields.io/badge/Github-444444?style=for-the-badge&logo=GitHub&logoColor=181717"> </a> &nbsp
 <img src="https://img.shields.io/badge/Git-444444?style=for-the-badge&logo=Git&logoColor=F05032">
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
 </p>
 
 
