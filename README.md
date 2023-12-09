@@ -45,21 +45,18 @@ I am interested in studying Generative AI and Natural Langage Processing.✨
 </p>
   
 <p align='center'> <b>Frameworks</b> </p>
-</br>
 <p align="center">
 <img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/> &nbsp
 <img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
 </p>
 
 <p align='center'> <b>Query Languages</b> </p>
-</br>
 <p align="center">
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"/> &nbsp
 <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
 </p>
 
 <p align='center'> <b>Tools</b> </p>
-</br>
 <p align="center">
 <img src="https://img.shields.io/badge/Github-444444?style=for-the-badge&logo=GitHub&logoColor=181717"> &nbsp
 <img src="https://img.shields.io/badge/Git-444444?style=for-the-badge&logo=Git&logoColor=F05032"> &nbsp
