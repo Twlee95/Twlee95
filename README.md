@@ -40,7 +40,6 @@ I am interested in studying Generative AI and Natural Langage Processing.✨
 
 
 <h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
-<p align="center"> Techs that I've used at least once </p>
 
 <p align='center'> <b>Languages </b></p>
 </br>
