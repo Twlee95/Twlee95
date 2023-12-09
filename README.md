@@ -44,7 +44,7 @@ I am interested in studying Generative AI and Natural Langage Processing.✨
 <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
 </p>
   
-<p align='center'> <b>Frameworks</b> </p>
+<p align='center'> <b>AI Frameworks</b> </p>
 <p align="center">
 <img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/> &nbsp
 <img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
