@@ -75,7 +75,10 @@ I am interested in <b>Generative AI and Natural Langage Processing</b>.✨
 
 
 ### ⬆️Careers
-
+* DB Hitek, ML Engineer
+  * 반도체 데이터 분석
+  * NLP, Time series AI 개발
+* Chung-Ang University, Artificial Intelligence
 
 ### Honers
 * Kaggle, Ubiquant Market Prediction, Silver Medal 🥈
