@@ -65,7 +65,7 @@ I am interested in <b>Generative AI and Natural Langage Processing</b>.✨
 ### 💻 Projects
 * 고객 Checklist 질의응답 자동화
 
-* 반도체 생산 데이이터 PCM 시계열 에측
+* 반도체 생산 데이터 PCM 시계열 에측
 
 * Multimodal 금융 시계열 예측
 
