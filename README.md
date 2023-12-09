@@ -43,20 +43,21 @@ I am interested in studying Generative AI and Natural Langage Processing.✨
 <p align="center"> Techs that I've used at least once </p>
 
 * Languages </br>
-<img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/></a> &nbsp 
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
 
 * Frameworks </br>
-<img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/></a> &nbsp 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/></a> 
+<img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+
 
 * Query Languages </br>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"/></a> &nbsp 
-<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/></a> 
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"/>
+<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
 
 * Tools </br>
-<img src="https://img.shields.io/badge/Github-444444?style=for-the-badge&logo=GitHub&logoColor=181717"></a> &nbsp
-<img src="https://img.shields.io/badge/Git-444444?style=for-the-badge&logo=Git&logoColor=F05032"></a> 
+<img src="https://img.shields.io/badge/Github-444444?style=for-the-badge&logo=GitHub&logoColor=181717">
+<img src="https://img.shields.io/badge/Git-444444?style=for-the-badge&logo=Git&logoColor=F05032">
 
 
 
