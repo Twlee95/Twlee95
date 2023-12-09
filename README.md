@@ -73,7 +73,16 @@ I am interested in <b>Generative AI and Natural Langage Processing</b>.✨
 
 * Kaggle Ubiquant Market Prediction
 
-* 
+
+### ⬆️Careers
+
+
+### Honers
+* Kaggle, Ubiquant Market Prediction, Silver Medal 🥈
+* 과학기술정보통신부, AI 대학원 Challenge, 3위 🥉
+
+### Publication
+* Lee, Tae-Won, Paweł Teisseyre, and Jaesung Lee. "Effective Exploitation of Macroeconomic Indicators for Stock Direction Classification Using the Multimodal Fusion Transformer." <b>IEEE Access</b> 11 (2023): 10275-10287.
 
 
 
