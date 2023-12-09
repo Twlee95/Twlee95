@@ -63,6 +63,10 @@ I am interested in studying Generative AI and Natural Langage Processing.✨
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
 </p>
 
+<p align='center'> <b>Visualization</b> </p>
+<p align="center">
+<img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white">
+</p>
 
 </br>
 </br>
