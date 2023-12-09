@@ -61,6 +61,27 @@ I am interested in <b>Generative AI and Natural Langage Processing</b>.✨
 <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white">
 </p>
 
-</br>
-</br>
+---
+### 💻 Projects
+* 고객 Checklist 질의응답 자동화
+
+* 반도체 생산 데이이터 PCM 시계열 에측
+
+* Multimodal 금융 시계열 예측
+
+* LLM 활용 단백질 활성화 분류
+
+* Kaggle Ubiquant Market Prediction
+
+* 
+
+
+
+
+
+
+
+
+
+
 
