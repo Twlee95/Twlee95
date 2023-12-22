@@ -56,9 +56,10 @@ I am interested in <b>Generative AI and Natural Langage Processing</b>.✨
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
 </p>
 
-<p align='center'> <b>Visualization</b> </p>
+<p align='center'> <b>Visualization / Web / Backend </b> </p>
 <p align="center">
-<img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white">
+<img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"> &nbsp
+<img src="https://img.shields.io/badge/Dash-008DE4?style=for-the-badge&logo=Dash&logoColor=white">
 </p>
 
 ---
