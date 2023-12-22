@@ -77,6 +77,7 @@ I am interested in <b>Generative AI and Natural Langage Processing</b>.✨
 ### ⌚️Careers
 * DB Hitek, ML Engineer
   * 반도체 데이터 분석
+  * 데이터 분석 플랫폼 구축
   * NLP, Time series AI 개발
 * Chung-Ang University, Artificial Intelligence
 
