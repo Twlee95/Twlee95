@@ -67,6 +67,15 @@ I am interested in <b>Generative AI and Natural Langage Processing</b>.✨
    
 * 고객 Checklist 질의응답 자동화
 
+* 4.	FastText언어모델을 사용한 반도체 고객 대응 자동화 시스템 개발 (23.07~23.12)
+-	주관 : DB Hitek
+-	참가인원 : 2인
+-	핵심 역량 및 기여
+1)	다양한 문장 임베딩 방법(Sum, Mean) 비교 실험 및 적용
+2)	반도체 품질 관련 전문용어 통합
+3)	답변 추천시스템을 실 사용 가능한 웹 구현
+
+
 * 반도체 생산 데이터 PCM 시계열 에측
 * 3.	공정 데이터를 활용한 반도체 소자 특성 예측 프로젝트 (23.07~23.12)
 -	주관 : DB Hitek
