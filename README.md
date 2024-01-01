@@ -86,7 +86,7 @@ I am interested in <b>Generative AI and Natural Langage Processing</b>.✨
 </br>
 
 ### 3) Multimodal Transformer를 활용한 다변량 금융 시계열 상관성 학습 모델 개발 (21.03~22.09)
--	주관 : IEEE Access (AI 분야 해외 SCIE 저널 1 저자, 인용 수: 3회)
+-	주관 : IEEE Access (AI 분야 해외 SCIE 저널, 인용 수: 3회)
 -	참가인원 : 석사 개인 연구
 -	핵심 역량 및 기여
 1)	주가 예측의 정확성에 영향이 있는 거시경제 데이터 (금 가격, WTI 원유 가격, 미 국채 수익률) 탐색
