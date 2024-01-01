@@ -103,7 +103,7 @@ I am interested in <b>Generative AI and Natural Langage Processing</b>.✨
 
 
 
-* Kaggle Ubiquant Market Prediction, 은메달 (22.05~22.07)
+### Kaggle Ubiquant Market Prediction, 은메달 (22.05~22.07)
 -	주관 : Kaggle
 -	참가인원 : 단독참가
 -	핵심 역량 및 기여
