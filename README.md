@@ -65,19 +65,8 @@ I am interested in <b>Generative AI and Natural Langage Processing</b>.✨
 ---
 ### 💻 Projects
    
-* 고객 Checklist 질의응답 자동화
-
-* 4.	FastText언어모델을 사용한 반도체 고객 대응 자동화 시스템 개발 (23.07~23.12)
--	주관 : DB Hitek
--	참가인원 : 2인
--	핵심 역량 및 기여
-1)	다양한 문장 임베딩 방법(Sum, Mean) 비교 실험 및 적용
-2)	반도체 품질 관련 전문용어 통합
-3)	답변 추천시스템을 실 사용 가능한 웹 구현
-
-
 * 반도체 생산 데이터 PCM 시계열 에측
-* 3.	공정 데이터를 활용한 반도체 소자 특성 예측 프로젝트 (23.07~23.12)
+* 공정 데이터를 활용한 반도체 소자 특성 예측 프로젝트 (23.07~23.12)
 -	주관 : DB Hitek
 -	참가인원 : 2인
 -	핵심 역량 및 기여
@@ -86,8 +75,16 @@ I am interested in <b>Generative AI and Natural Langage Processing</b>.✨
 3)	소자특성 예측 시스템을 일반 직원이 사용할 수 있도록 웹 구현
 
 
-* Multimodal 금융 시계열 예측
-* 2.	Transformer(AI 언어모델)를 활용한 다변량 금융 시계열 상관성 학습 모델 개발 (21.03~22.09)
+* FastText언어모델을 사용한 반도체 고객 대응 자동화 시스템 개발 (23.07~23.12)
+-	주관 : DB Hitek
+-	참가인원 : 2인
+-	핵심 역량 및 기여
+1)	다양한 문장 임베딩 방법(Sum, Mean) 비교 실험 및 적용
+2)	반도체 품질 관련 전문용어 통합
+3)	답변 추천시스템을 실 사용 가능한 웹 구현
+
+
+* Multimodal Transformer(AI 언어모델)를 활용한 다변량 금융 시계열 상관성 학습 모델 개발 (21.03~22.09)
 -	주관 : IEEE Access (AI 분야 해외 SCIE 저널 1 저자, 인용 수: 3회)
 -	참가인원 : 석사 개인 연구
 -	핵심 역량 및 기여
@@ -97,8 +94,7 @@ I am interested in <b>Generative AI and Natural Langage Processing</b>.✨
 
 
 
-* LLM 활용 단백질 활성화 분류
-  5.	LLM을 활용한 단백질 시퀀스 예측 대회, 3등 (22.07~23.08)
+*  LLM을 활용한 단백질 시퀀스 활성화 예측 대회, 3등 (22.07~23.08)
 -	주관 : 과학기술정보통신부
 -	참가인원 : 3인
 -	핵심 역량 및 기여
@@ -107,9 +103,8 @@ I am interested in <b>Generative AI and Natural Langage Processing</b>.✨
 
 
 
-* Kaggle Ubiquant Market Prediction
 
-* 1.	Kaggle Ubiquant Market Prediction, 은메달 (22.05~22.07)
+* Kaggle Ubiquant Market Prediction, 은메달 (22.05~22.07)
 -	주관 : Kaggle
 -	참가인원 : 단독참가
 -	핵심 역량 및 기여
