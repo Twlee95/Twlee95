@@ -71,7 +71,9 @@ I am interested in <b>Generative AI and Natural Langage Processing</b>.✨
 -	핵심 역량 및 기여
 1)	반도체 생산 시 발생하는 Inline 데이터를 활용, 소자 최종 검사 시 추출되는 소자 특성 예측
 2)	장기 시계열 예측에 사용되는 최신 딥러닝 모델인 NLinear 모델의 변형인 가법 NLinear, 승법 NLinear등을 개발하여 성능 비교
-3)	소자특성 예측 시스템을 일반 직원이 사용할 수 있도록 웹 구현 &nbsp;
+3)	소자특성 예측 시스템을 일반 직원이 사용할 수 있도록 웹 구현
+
+<p></p>
 
 
 ### FastText언어모델을 사용한 반도체 고객 대응 자동화 시스템 개발 (23.07~23.12)
@@ -82,6 +84,7 @@ I am interested in <b>Generative AI and Natural Langage Processing</b>.✨
 2)	반도체 품질 관련 전문용어 통합
 3)	답변 추천시스템을 실 사용 가능한 웹 구현 &nbsp;
 
+<p></p>
 
 ### Multimodal Transformer(AI 언어모델)를 활용한 다변량 금융 시계열 상관성 학습 모델 개발 (21.03~22.09)
 -	주관 : IEEE Access (AI 분야 해외 SCIE 저널 1 저자, 인용 수: 3회)
@@ -91,7 +94,7 @@ I am interested in <b>Generative AI and Natural Langage Processing</b>.✨
 2)	다변량 시계열의 상관성을 학습하여 예측할 수 있는 Transformer Encoder 개발
 3)	(금 가격 <-> 금융 기업 주가), (석유가격<->에너지 기업 주가) 등의 예측 활성도 분석을 통해 추가한 데이터들이 실제 예측에 영향이 있는지 분석 &nbsp;
 
-
+<p></p>
 
 ###  LLM을 활용한 단백질 시퀀스 활성화 예측 대회, 3등 (22.07~23.08)
 -	주관 : 과학기술정보통신부
@@ -100,6 +103,7 @@ I am interested in <b>Generative AI and Natural Langage Processing</b>.✨
 1)	단백질 시퀀스 데이터 분석
 2)	LLM(Large Language Model) Fine Tuning &nbsp;
 
+<p></p>
 
 ### Kaggle Ubiquant Market Prediction, 은메달 (22.05~22.07)
 -	주관 : Kaggle
