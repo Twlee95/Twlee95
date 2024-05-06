@@ -30,7 +30,7 @@ I am interested in <b>Generative AI and Natural Langage Processing</b>.✨
 
 <h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
 
-<p align='center'> <b>Languages </b></p>
+<p align='center'> <b>Programming Languages </b></p>
 <p align="center">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> &nbsp
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/> &nbsp
