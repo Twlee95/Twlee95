@@ -66,8 +66,9 @@ I am interested in <b>Natural Langage Processing</b>.✨
 ---
 # 💻 Projects
    
-### 1) Project to Predict the Characteristics of Semiconductor Devices Using Process Data '23.07~23.12'
+### 1) Project to Predict the Characteristics of Semiconductor Devices Using Process Data
 -	DB Hitek
+-	'23.07~23.12'
 -	Number of participants : 2
 -	Contributions
 1) Using Inline data generated during semiconductor production, predicting the characteristics of the device extracted during the final inspection of the device
@@ -76,8 +77,9 @@ I am interested in <b>Natural Langage Processing</b>.✨
 
 </br>
 
-### 2) Development of a Semiconductor Customer Response Automation System Using FastText Language Model '23.07~23.12'
+### 2) Development of a Semiconductor Customer Response Automation System Using FastText Language Model 
 -	DB Hitek
+-	'23.07~23.12'
 -	Number of participants : 2
 -	Contributions
 1) Different sentence embedding methods (Sum, Mean) comparison experiments and applications
@@ -86,8 +88,9 @@ I am interested in <b>Natural Langage Processing</b>.✨
 
 </br>
 
-### 3) Development of Multivariate Financial Time Series Correlation Learning Model Using Multimodal Transformer '21.03~22.09'
+### 3) Development of Multivariate Financial Time Series Correlation Learning Model Using Multimodal Transformer 
 -	IEEE Access (SCIE, citation: 8)
+-	'21.03~22.09'
 -	Number of participants : 1
 -	Contributions
 1) Exploring Macroeconomic Data (Gold Price, WTI Crude Oil Price, U.S. Treasury Yield) That Affects The Accuracy Of Stock Forecasts
@@ -96,8 +99,9 @@ I am interested in <b>Natural Langage Processing</b>.✨
 
 </br>
 
-###  4) Protein sequence activation prediction competition using LLM, 3rd place '22.07~23.08'
+###  4) Protein sequence activation prediction competition using LLM, 3rd place 
 -	Ministry of Science and ICT
+-	'22.07~23.08'
 -	Number of participants : 3
 -	Contributions
 1) Analysis of protein sequence data
@@ -106,8 +110,9 @@ I am interested in <b>Natural Langage Processing</b>.✨
 
 </br>
 
-### 5) Kaggle Ubiquant Market Prediction, Silver medal '22.05~22.07'
+### 5) Kaggle Ubiquant Market Prediction, Silver medal 
 -	Kaggle
+-	'22.05~22.07'
 -	Number of participants : 3
 -	Contributions
 1) Effective Combination of Financial Time Series Data and Customer Information Categorical Data through ANN Deep Learning Structure
