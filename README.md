@@ -122,7 +122,7 @@ I am interested in <b>Natural Langage Processing</b>.✨
   * Building a Data Analysis Platform (Web)
   * NLP Develops Time Series AI System
 
-# 🎉Honers
+# 🎉Honors
 * Kaggle, Ubiquant Market Prediction, Silver Medal 🥈
 * Ministry of Science and ICT, AI graduate school Challenge, 3rd 🥉
 
