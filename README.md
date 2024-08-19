@@ -124,7 +124,7 @@ I am interested in <b>Natural Langage Processing</b>.✨
 
 # 🎉Honers
 * Kaggle, Ubiquant Market Prediction, Silver Medal 🥈
-* Ministry of Science and ICT, AI graduate school Challenge, 3위 🥉
+* Ministry of Science and ICT, AI graduate school Challenge, 3rd 🥉
 
 # 👨🏻‍🎓Education
 * Chung-Ang University
