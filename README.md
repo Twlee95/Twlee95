@@ -106,25 +106,25 @@ I am interested in <b>Natural Langage Processing</b>.✨
 
 </br>
 
-### 5) Kaggle Ubiquant Market Prediction, 은메달 (22.05~22.07)
--	주관 : Kaggle
--	참가인원 : 단독참가
--	핵심 역량 및 기여
-1)	금융 시계열 데이터와 고객정보 범주형 데이터의 ANN 딥러닝 구조를 통한 효과적인 결합
-2)	자연어의 임베딩 방법론을 활용한 범주형 정보의 차원 축소
-3)	Pearson Correlation Coefficient 예측을 위한 Custom Loss Function 개발 &nbsp;
+### 5) Kaggle Ubiquant Market Prediction, Silver medal (22.05~22.07)
+-	Kaggle
+-	Number of participants : 3
+-	Contributions
+1) Effective Combination of Financial Time Series Data and Customer Information Categorical Data through ANN Deep Learning Structure
+2) Dimension reduction of categorical information utilizing embedding methodology in natural language
+3) Development of a custom loss function for Pearson correlation coefficient prediction &nbsp;
 
 </br>
 
 # ⌚️Careers
 * DB Hitek, ML Engineer
-  * 반도체 생산 데이터 분석
-  * 데이터 분석 플랫폼 구축 (Web)
-  * NLP, Time series AI 시스템 개발
+  * Semiconductor Production Data Analysis
+  * Building a Data Analysis Platform (Web)
+  * NLP Develops Time Series AI System
 
 # 🎉Honers
 * Kaggle, Ubiquant Market Prediction, Silver Medal 🥈
-* 과학기술정보통신부, AI 대학원 Challenge, 3위 🥉
+* Ministry of Science and ICT, AI graduate school Challenge, 3위 🥉
 
 # 👨🏻‍🎓Education
 * Chung-Ang University
