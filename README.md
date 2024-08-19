@@ -87,7 +87,7 @@ I am interested in <b>Natural Langage Processing</b>.✨
 </br>
 
 ### 3) Development of Multivariate Financial Time Series Correlation Learning Model Using Multimodal Transformer '21.03~22.09'
--	IEEE Access (SCIE, citation: 8)
+-	IEEE Access (SCIE, citation: 8)
 -	Number of participants : 1
 -	Contributions
 1) Exploring Macroeconomic Data (Gold Price, WTI Crude Oil Price, U.S. Treasury Yield) That Affects The Accuracy Of Stock Forecasts
