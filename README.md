@@ -66,9 +66,9 @@ I am interested in <b>Natural Langage Processing</b>.✨
 ---
 # 💻 Projects
    
-### 1) Project to Predict the Characteristics of Semiconductor Devices Using Process Data (23.07~23.12)
+### 1) Project to Predict the Characteristics of Semiconductor Devices Using Process Data '23.07~23.12'
 -	DB Hitek
--	Number of participants : 2인
+-	Number of participants : 2
 -	Contributions
 1) Using Inline data generated during semiconductor production, predicting the characteristics of the device extracted during the final inspection of the device
 2) Performance comparison by developing additive NLiner, multiplier NLiner, etc., a variant of the latest deep learning model used for long-term time series prediction, NLiner, etc
@@ -76,9 +76,9 @@ I am interested in <b>Natural Langage Processing</b>.✨
 
 </br>
 
-### 2) Development of a Semiconductor Customer Response Automation System Using FastText Language Model (23.07~23.12)
+### 2) Development of a Semiconductor Customer Response Automation System Using FastText Language Model '23.07~23.12'
 -	DB Hitek
--	Number of participants : 2인
+-	Number of participants : 2
 -	Contributions
 1) Different sentence embedding methods (Sum, Mean) comparison experiments and applications
 2) Integration of semiconductor quality related jargon
@@ -86,7 +86,7 @@ I am interested in <b>Natural Langage Processing</b>.✨
 
 </br>
 
-### 3) Development of Multivariate Financial Time Series Correlation Learning Model Using Multimodal Transformer (21.03~22.09)
+### 3) Development of Multivariate Financial Time Series Correlation Learning Model Using Multimodal Transformer '21.03~22.09'
 -	IEEE Access (SCIE, citation: 8)
 -	Number of participants : 1
 -	Contributions
@@ -96,7 +96,7 @@ I am interested in <b>Natural Langage Processing</b>.✨
 
 </br>
 
-###  4) Protein sequence activation prediction competition using LLM, 3rd place (22.07~23.08)
+###  4) Protein sequence activation prediction competition using LLM, 3rd place '22.07~23.08'
 -	Ministry of Science and ICT
 -	Number of participants : 3
 -	Contributions
@@ -106,7 +106,7 @@ I am interested in <b>Natural Langage Processing</b>.✨
 
 </br>
 
-### 5) Kaggle Ubiquant Market Prediction, Silver medal (22.05~22.07)
+### 5) Kaggle Ubiquant Market Prediction, Silver medal '22.05~22.07'
 -	Kaggle
 -	Number of participants : 3
 -	Contributions
