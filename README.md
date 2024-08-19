@@ -66,9 +66,8 @@ I am interested in <b>Natural Langage Processing</b>.✨
 ---
 # 💻 Projects
    
-### 1) Project to Predict the Characteristics of Semiconductor Devices Using Process Data
+### 1) Project to Predict the Characteristics of Semiconductor Devices Using Process Data `23.07~23.12`
 -	DB Hitek
--	'23.07~23.12'
 -	Number of participants : 2
 -	Contributions
 1) Using Inline data generated during semiconductor production, predicting the characteristics of the device extracted during the final inspection of the device
