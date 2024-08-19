@@ -66,42 +66,43 @@ I am interested in <b>Natural Langage Processing</b>.✨
 ---
 # 💻 Projects
    
-### 1) 공정 데이터를 활용한 반도체 소자 특성 예측 프로젝트 (23.07~23.12)
--	주관 : DB Hitek
--	참가인원 : 2인
--	핵심 역량 및 기여
-1)	반도체 생산 시 발생하는 Inline 데이터를 활용, 소자 최종 검사 시 추출되는 소자 특성 예측
-2)	장기 시계열 예측에 사용되는 최신 딥러닝 모델인 NLinear 모델의 변형인 가법 NLinear, 승법 NLinear등을 개발하여 성능 비교
-3)	소자특성 예측 시스템을 일반 직원이 사용할 수 있도록 웹 구현
+### 1) Project to Predict the Characteristics of Semiconductor Devices Using Process Data (23.07~23.12)
+-	DB Hitek
+-	Number of participants : 2인
+-	Contributions
+1) Using Inline data generated during semiconductor production, predicting the characteristics of the device extracted during the final inspection of the device
+2) Performance comparison by developing additive NLiner, multiplier NLiner, etc., a variant of the latest deep learning model used for long-term time series prediction, NLiner, etc
+3) Device Characteristics Prediction System Web Implementation
 
 </br>
 
-### 2) FastText언어모델을 사용한 반도체 고객 대응 자동화 시스템 개발 (23.07~23.12)
--	주관 : DB Hitek
--	참가인원 : 2인
--	핵심 역량 및 기여
-1)	다양한 문장 임베딩 방법(Sum, Mean) 비교 실험 및 적용
-2)	반도체 품질 관련 전문용어 통합
-3)	답변 추천시스템을 실 사용 가능한 웹 구현 &nbsp;
+### 2) Development of a Semiconductor Customer Response Automation System Using FastText Language Model (23.07~23.12)
+-	DB Hitek
+-	Number of participants : 2인
+-	Contributions
+1) Different sentence embedding methods (Sum, Mean) comparison experiments and applications
+2) Integration of semiconductor quality related jargon
+3) Implementation of a web that enables the answer recommendation system to be implemented in real life &nbsp;
 
 </br>
 
-### 3) Multimodal Transformer를 활용한 다변량 금융 시계열 상관성 학습 모델 개발 (21.03~22.09)
--	주관 : IEEE Access (AI 분야 해외 SCIE 저널, 인용 수: 3회)
--	참가인원 : 석사 개인 연구
--	핵심 역량 및 기여
-1)	주가 예측의 정확성에 영향이 있는 거시경제 데이터 (금 가격, WTI 원유 가격, 미 국채 수익률) 탐색
-2)	다변량 시계열의 상관성을 학습하여 예측할 수 있는 Transformer Encoder 개발
-3)	(금 가격 <-> 금융 기업 주가), (석유가격<->에너지 기업 주가) 등의 예측 활성도 분석을 통해 추가한 데이터들이 실제 예측에 영향이 있는지 분석 &nbsp;
+### 3) Development of Multivariate Financial Time Series Correlation Learning Model Using Multimodal Transformer (21.03~22.09)
+-	IEEE Access (SCIE, citation: 8)
+-	Number of participants : 1
+-	Contributions
+1) Exploring Macroeconomic Data (Gold Price, WTI Crude Oil Price, U.S. Treasury Yield) That Affects The Accuracy Of Stock Forecasts
+2) Developing Transformer Encoder that can predict by learning correlations in multivariate time series
+3) Whether the actual forecast is affected by the data added through the analysis of forecast activity such as (gold price <-> financial company stock price) and (oil price <-> energy company stock price) &nbsp;
 
 </br>
 
-###  4) LLM을 활용한 단백질 시퀀스 활성화 예측 대회, 3등 (22.07~23.08)
--	주관 : 과학기술정보통신부
--	참가인원 : 3인
--	핵심 역량 및 기여
-1)	단백질 시퀀스 데이터 분석
-2)	LLM(Large Language Model) Fine Tuning &nbsp;
+###  4) Protein sequence activation prediction competition using LLM, 3rd place (22.07~23.08)
+-	Ministry of Science and ICT
+-	Number of participants : 3
+-	Contributions
+1) Analysis of protein sequence data
+2) LLM(Large Language Model) Fine Tuning
+3) Development train/validation split strategy robust to test data &nbsp;
 
 </br>
 
